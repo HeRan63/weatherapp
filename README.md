@@ -62,9 +62,3 @@
 ## 许可证
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
-
-## 联系方式
-
-你的名字 - [@你的推特](https://twitter.com/你的推特)
-
-项目链接: [https://github.com/你的用户名/weather-app](https://github.com/你的用户名/weather-app)
