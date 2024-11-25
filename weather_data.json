@@ -1,0 +1,107 @@
+{
+    "Beijing": {
+        "name": "北京",
+        "main": {
+            "temp": 20,
+            "humidity": 45
+        },
+        "weather": [
+            {
+                "description": "晴朗"
+            }
+        ],
+        "wind": {
+            "speed": 3.5
+        },
+        "forecast": {
+            "temperature": [20, 21, 22, 21, 20, 19, 18, 17],
+            "precipitation": [0, 0, 0, 0, 0, 0, 0, 0],
+            "times": ["14:00", "14:15", "14:30", "14:45", "15:00", "15:15", "15:30", "15:45"]
+        },
+        "weekly_forecast": [
+            {"date": "2023-05-01", "max_temp": 25, "min_temp": 15, "rain_prob": 10, "wind_speed": 3.2, "description": "晴朗", "sunrise": "05:12", "sunset": "19:05", "uv_index": 7},
+            {"date": "2023-05-02", "max_temp": 27, "min_temp": 16, "rain_prob": 5, "wind_speed": 2.8, "description": "晴朗", "sunrise": "05:11", "sunset": "19:06", "uv_index": 8},
+            {"date": "2023-05-03", "max_temp": 26, "min_temp": 17, "rain_prob": 20, "wind_speed": 3.5, "description": "多云", "sunrise": "05:10", "sunset": "19:07", "uv_index": 6},
+            {"date": "2023-05-04", "max_temp": 24, "min_temp": 16, "rain_prob": 40, "wind_speed": 4.0, "description": "小雨", "sunrise": "05:09", "sunset": "19:08", "uv_index": 4},
+            {"date": "2023-05-05", "max_temp": 23, "min_temp": 15, "rain_prob": 30, "wind_speed": 3.8, "description": "多云", "sunrise": "05:08", "sunset": "19:09", "uv_index": 5},
+            {"date": "2023-05-06", "max_temp": 25, "min_temp": 16, "rain_prob": 15, "wind_speed": 3.0, "description": "晴朗", "sunrise": "05:07", "sunset": "19:10", "uv_index": 7},
+            {"date": "2023-05-07", "max_temp": 26, "min_temp": 17, "rain_prob": 5, "wind_speed": 2.5, "description": "晴朗", "sunrise": "05:06", "sunset": "19:11", "uv_index": 8}
+        ],
+        "travel_advice": [
+            "• 天气晴好，适合外出游玩",
+            "• 紫外线较强，注意防晒",
+            "• 建议携带水壶，保持水分补充",
+            "• 可以考虑参观故宫、长城等户外景点"
+        ]
+    },
+    "Shanghai": {
+        "name": "上海",
+        "main": {
+            "temp": 25,
+            "humidity": 60
+        },
+        "weather": [
+            {
+                "description": "多云"
+            }
+        ],
+        "wind": {
+            "speed": 4.2
+        },
+        "forecast": {
+            "temperature": [25, 24, 24, 23, 23, 22, 22, 21],
+            "precipitation": [0, 10, 20, 30, 40, 30, 20, 10],
+            "times": ["14:00", "14:15", "14:30", "14:45", "15:00", "15:15", "15:30", "15:45"]
+        },
+        "weekly_forecast": [
+            {"date": "2023-05-01", "max_temp": 28, "min_temp": 20, "rain_prob": 30, "wind_speed": 4.0, "description": "多云", "sunrise": "05:02", "sunset": "18:45", "uv_index": 6},
+            {"date": "2023-05-02", "max_temp": 27, "min_temp": 19, "rain_prob": 40, "wind_speed": 4.5, "description": "小雨", "sunrise": "05:01", "sunset": "18:46", "uv_index": 4},
+            {"date": "2023-05-03", "max_temp": 26, "min_temp": 18, "rain_prob": 50, "wind_speed": 5.0, "description": "小雨", "sunrise": "05:00", "sunset": "18:47", "uv_index": 3},
+            {"date": "2023-05-04", "max_temp": 25, "min_temp": 18, "rain_prob": 20, "wind_speed": 3.5, "description": "多云", "sunrise": "04:59", "sunset": "18:48", "uv_index": 5},
+            {"date": "2023-05-05", "max_temp": 27, "min_temp": 19, "rain_prob": 10, "wind_speed": 3.0, "description": "晴朗", "sunrise": "04:58", "sunset": "18:49", "uv_index": 7},
+            {"date": "2023-05-06", "max_temp": 29, "min_temp": 21, "rain_prob": 5, "wind_speed": 2.8, "description": "晴朗", "sunrise": "04:57", "sunset": "18:50", "uv_index": 8},
+            {"date": "2023-05-07", "max_temp": 30, "min_temp": 22, "rain_prob": 15, "wind_speed": 3.2, "description": "多云", "sunrise": "04:56", "sunset": "18:51", "uv_index": 6}
+        ],
+        "travel_advice": [
+            "• 天气多云，温度适宜",
+            "• 建议携带薄外套，以防天气变化",
+            "• 可以考虑游览外滩、豫园等景点",
+            "• 注意随身携带雨具，以防下雨"
+        ]
+    },
+    "Guangzhou": {
+        "name": "广州",
+        "main": {
+            "temp": 28,
+            "humidity": 75
+        },
+        "weather": [
+            {
+                "description": "多云"
+            }
+        ],
+        "wind": {
+            "speed": 2.8
+        },
+        "forecast": {
+            "temperature": [28, 27, 27, 26, 26, 25, 25, 24],
+            "precipitation": [30, 40, 50, 60, 50, 40, 30, 20],
+            "times": ["14:00", "14:15", "14:30", "14:45", "15:00", "15:15", "15:30", "15:45"]
+        },
+        "weekly_forecast": [
+            {"date": "2023-05-01", "max_temp": 30, "min_temp": 24, "rain_prob": 60, "wind_speed": 3.0, "description": "小雨", "sunrise": "05:52", "sunset": "18:55", "uv_index": 4},
+            {"date": "2023-05-02", "max_temp": 29, "min_temp": 23, "rain_prob": 70, "wind_speed": 3.5, "description": "中雨", "sunrise": "05:51", "sunset": "18:56", "uv_index": 3},
+            {"date": "2023-05-03", "max_temp": 28, "min_temp": 23, "rain_prob": 50, "wind_speed": 3.2, "description": "小雨", "sunrise": "05:50", "sunset": "18:57", "uv_index": 5},
+            {"date": "2023-05-04", "max_temp": 29, "min_temp": 24, "rain_prob": 30, "wind_speed": 2.8, "description": "多云", "sunrise": "05:49", "sunset": "18:58", "uv_index": 6},
+            {"date": "2023-05-05", "max_temp": 31, "min_temp": 25, "rain_prob": 20, "wind_speed": 2.5, "description": "晴朗", "sunrise": "05:48", "sunset": "18:59", "uv_index": 8},
+            {"date": "2023-05-06", "max_temp": 32, "min_temp": 26, "rain_prob": 10, "wind_speed": 2.2, "description": "晴朗", "sunrise": "05:47", "sunset": "19:00", "uv_index": 9},
+            {"date": "2023-05-07", "max_temp": 31, "min_temp": 25, "rain_prob": 40, "wind_speed": 3.0, "description": "多云", "sunrise": "05:46", "sunset": "19:01", "uv_index": 7}
+        ],
+        "travel_advice": [
+            "• 天气潮湿，注意防雨",
+            "• 建议携带雨伞或雨衣",
+            "• 可以考虑室内活动，如参观博物馆",
+            "• 注意防滑，小心路面湿滑"
+        ]
+    }
+} 

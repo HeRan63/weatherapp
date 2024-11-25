@@ -1,0 +1,14 @@
+{
+    "晴朗": {
+        "icon": "sunny.png",
+        "bg_color": "#87CEEB"
+    },
+    "多云": {
+        "icon": "cloudy.png",
+        "bg_color": "#B0C4DE"
+    },
+    "小雨": {
+        "icon": "rainy.png",
+        "bg_color": "#708090"
+    }
+} 
